@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jurnal_Management/static/css/main.d9d73463.css",
-    "main.js": "/Jurnal_Management/static/js/main.f95d1e13.js",
-    "static/js/453.53b7de68.chunk.js": "/Jurnal_Management/static/js/453.53b7de68.chunk.js",
-    "index.html": "/Jurnal_Management/index.html",
-    "main.d9d73463.css.map": "/Jurnal_Management/static/css/main.d9d73463.css.map",
-    "main.f95d1e13.js.map": "/Jurnal_Management/static/js/main.f95d1e13.js.map",
-    "453.53b7de68.chunk.js.map": "/Jurnal_Management/static/js/453.53b7de68.chunk.js.map"
+    "main.css": "/RNS-Jurnal-Info-Collector/static/css/main.d9d73463.css",
+    "main.js": "/RNS-Jurnal-Info-Collector/static/js/main.a3f82d4c.js",
+    "static/js/453.b2707c59.chunk.js": "/RNS-Jurnal-Info-Collector/static/js/453.b2707c59.chunk.js",
+    "index.html": "/RNS-Jurnal-Info-Collector/index.html",
+    "main.d9d73463.css.map": "/RNS-Jurnal-Info-Collector/static/css/main.d9d73463.css.map",
+    "main.a3f82d4c.js.map": "/RNS-Jurnal-Info-Collector/static/js/main.a3f82d4c.js.map",
+    "453.b2707c59.chunk.js.map": "/RNS-Jurnal-Info-Collector/static/js/453.b2707c59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9d73463.css",
-    "static/js/main.f95d1e13.js"
+    "static/js/main.a3f82d4c.js"
   ]
 }
