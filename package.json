@@ -1,9 +1,9 @@
 {
-  "name": "Voice-Note-Taker",
-  "description": "RNS Portfolio Creator",
+  "name": "Jurnal_Management",
+  "description": "Jurnal_Management_Assistant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Viswanath-18.github.io/Voice-Note-Taker",
+  "homepage": "https://Viswanath-18.github.io/Jurnal_Management",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
