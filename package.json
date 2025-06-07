@@ -1,9 +1,9 @@
 {
-  "name": "Jurnal_Management",
-  "description": "Jurnal_Management_Assistant",
+  "name": "RNS-Jurnal-Info-Collector",
+  "description": "RNS-Jurnal-Info-Collector_Assistant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Viswanath-18.github.io/Jurnal_Management",
+  "homepage": "https://Viswanath-18.github.io/RNS-Jurnal-Info-Collector",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
